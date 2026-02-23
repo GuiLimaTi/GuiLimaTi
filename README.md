@@ -4,7 +4,7 @@
 
 I am currently transitioning fully into the technology field, building a strong foundation in Computer Science through Harvard’s *CS50 – Introduction to Computer Science*.
 
-With an academic background in *Mathematics, I bring strong analytical thinking and problem-solving skills to software development. In September, I will begin my studies in **Data Science at National College of Ireland (NCI)*, further strengthening my technical and computational expertise.
+With an academic background in *Mathematics, I bring strong analytical thinking and problem-solving skills to software development. In September, I will begin my studies in **Data Science at National College of Ireland (NCI)**, further strengthening my technical and computational expertise.
 
 My focus is fully dedicated to programming, algorithms, data analysis, and building scalable solutions.
 

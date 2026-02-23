@@ -1,12 +1,12 @@
 # 👨🏻‍💻 Guilherme Lima
 
-*CS50 Student | Future Data Analyst | Data Science Student*
+*Software & Data Science Student | Mathematics Background | CS50 (Harvard)*
 
 I am currently transitioning fully into the technology field, building a strong foundation in Computer Science through Harvard’s *CS50 – Introduction to Computer Science*.
 
 With an academic background in *Mathematics, I bring strong analytical thinking and problem-solving skills to software development. In September, I will begin my studies in **Data Science at National College of Ireland (NCI)*, further strengthening my technical and computational expertise.
 
-My focus is now 100% on programming, algorithms, data, and building a strong GitHub portfolio that reflects my evolution in technology.
+My focus is fully dedicated to programming, algorithms, data analysis, and building scalable solutions.
 
 This profile documents my journey from fundamentals to advanced software development and data science.
 
@@ -48,8 +48,8 @@ This profile documents my journey from fundamentals to advanced software develop
 
 ### 🎓 Education
 
-- Bachelor’s Degree in Electrical Engineering
 - Bachelor’s Degree in Mathematics
+- Bachelor’s Degree in Electrical Engineering
 - CS50 – Introduction to Computer Science (Harvard University)  
 - Data Science (Starting September – National College of Ireland)
 

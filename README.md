@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Guilherme Lima
 
-*CS50 Student | Future Software Developer | Data Science Student*
+*CS50 Student | Future Data Analyst | Data Science Student*
 
 I am currently transitioning fully into the technology field, building a strong foundation in Computer Science through Harvard’s *CS50 – Introduction to Computer Science*.
 

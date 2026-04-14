@@ -1,14 +1,14 @@
 # 👨🏻‍💻 Guilherme Lima
 
-*Software & Data Science Student | Mathematics Background | CS50 (Harvard)*
+Aspiring Data Analyst | Engineering & Mathematics Background | CS50 (Harvard)
 
-I am currently transitioning fully into the technology field, building a strong foundation in Computer Science through Harvard’s *CS50 – Introduction to Computer Science*.
+I am an engineering professional transitioning into the field of Data Analytics, currently building a strong technical foundation through Harvard’s CS50 – Introduction to Computer Science.
 
-With an academic background in *Mathematics, I bring strong analytical thinking and problem-solving skills to software development. In September, I will begin my studies in **Data Science at National College of Ireland (NCI)**, further strengthening my technical and computational expertise.
+With academic backgrounds in Mathematics and Electrical Engineering, I bring strong analytical thinking and problem-solving skills to data-driven environments. In September, I will begin my studies in **Science Computing at National College of Ireland (NCI), further strengthening my technical and analytical expertise.
 
-My focus is fully dedicated to programming, algorithms, data analysis, and building scalable solutions.
+My focus is dedicated to programming, algorithms, and data analysis, aiming to apply these skills to solve real-world problems.
 
-This profile documents my journey from fundamentals to advanced software development and data science.
+This profile documents my journey from fundamentals to applied data analytics.
 
 ---
 
@@ -48,31 +48,50 @@ This profile documents my journey from fundamentals to advanced software develop
 
 ### 🎓 Education
 
-- Bachelor’s Degree in Mathematics
-- Bachelor’s Degree in Electrical Engineering
+- Bachelor’s Degree in Mathematics  
+- Bachelor’s Degree in Electrical Engineering  
 - CS50 – Introduction to Computer Science (Harvard University)  
-- Data Science (Starting September – National College of Ireland)
+- Science Computing (Starting September – National College of Ireland)  
 
 ---
 
 ### 🚀 Current Focus
 
-- C Programming (CS50)
-- Algorithms & Computational Thinking
-- Problem Solving & Mathematical Logic
-- Data Science Foundations
-- Software Development Principles
+- Programming (C, Python)  
+- Algorithms & computational thinking  
+- Problem solving & logical reasoning  
+- Data analytics foundations  
+- Web development (HTML, CSS, JavaScript, Bootstrap)  
 
 ---
 
 ### 💻 Projects
 
-#### CS50
-- hello.c – User input & formatted output  
-- mario.c – Loops & structured logic  
-- cash.c – Greedy algorithm implementation  
+#### 🌐 Web Development
 
-More projects coming soon as I progress through CS50 and Data Science studies.
+- *Homepage Project (CS50 – Week 8)*  
+  Multi-page personal portfolio built with HTML, CSS, JavaScript, and Bootstrap  
+  👉 https://guilimati.github.io/CS50-week8/
+
+- *Trivia Project (CS50 – Week 8)*  
+  Interactive quiz application using JavaScript with dynamic feedback  
+
+---
+
+#### 🧠 Algorithms & Data Structures
+
+- *Speller (CS50 – Week 5)*  
+  Hash table implementation for efficient dictionary lookup  
+
+- *Runoff Election (CS50 – Week 3)*  
+  Ranked-choice voting system simulation  
+
+---
+
+#### ⚙️ Systems & Memory
+
+- *Filter / Recover (CS50 – Week 4)*  
+  Image processing and file recovery using memory manipulation  
 
 ---
 
@@ -86,6 +105,7 @@ More projects coming soon as I progress through CS50 and Data Science studies.
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" 
 />
+
 <img 
     align="left" 
     alt="Python"
@@ -94,6 +114,43 @@ More projects coming soon as I progress through CS50 and Data Science studies.
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
 />
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML5" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="CSS"
+    title="CSS3" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="JavaScript"
+    title="JavaScript" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Bootstrap"
+    title="Bootstrap" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" 
+/>
+
 <img 
     align="left" 
     alt="Git"
@@ -102,6 +159,7 @@ More projects coming soon as I progress through CS50 and Data Science studies.
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
 />
+
 <img 
     align="left" 
     alt="GitHub"
@@ -113,7 +171,6 @@ More projects coming soon as I progress through CS50 and Data Science studies.
 
 <br/>
 <br/>
-
 ---
 
 ### 🌍 Languages
@@ -127,6 +184,10 @@ More projects coming soon as I progress through CS50 and Data Science studies.
 
 ### 🎯 Objective
 
-To build a strong career in Software Development and Data Science, combining mathematical foundations with programming and data-driven problem solving.
+To build a career in *Data Analytics*, combining mathematical foundations with programming skills to extract insights, support decision-making, and solve real-world problems.
 
-This profile will evolve as I evolve.
+---
+
+### 📌 Final Note
+
+This profile reflects my transition into the technology and data field, with a strong commitment to continuous learning and professional growth.

@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Guilherme Lima
+# Guilherme Lima
 
 **Aspiring IT Support Technician | Electrical Engineer | CompTIA A+ (in progress) | HDip in Computing @ NCI | Dublin**
 
@@ -18,11 +18,11 @@ This profile documents what I'm learning and building along the way.
 <img alt="CompTIA A+ in progress" title="CompTIA A+ in progress" src="https://img.shields.io/badge/CompTIA_A+-In_progress-C8202F?style=for-the-badge"/>
 </p>
 
-📫 **Open to entry-level IT Support, Helpdesk and Service Desk roles in Dublin.**
+**Open to entry-level IT Support, Helpdesk and Service Desk roles in Dublin.**
 
 ---
 
-### 🧰 Hands-on background
+### Hands-on background
 
 - Installed and configured around 5–6 CCTV systems per month for businesses (cameras, DVRs, cabling)
 - Configured DNS and network settings for remote camera access and set up mobile viewing apps for customers
@@ -32,7 +32,7 @@ This profile documents what I'm learning and building along the way.
 
 ---
 
-### 🛠️ Skills
+### Skills
 
 - **IT Support:** Windows troubleshooting, hardware troubleshooting and upgrades, software installation, printer configuration, Microsoft 365, remote and on-site user support
 - **Networking & Security:** networking fundamentals, DNS and router configuration, basic network troubleshooting, CCTV and IP cameras, cybersecurity fundamentals
@@ -40,34 +40,34 @@ This profile documents what I'm learning and building along the way.
 
 ---
 
-### 🧪 IT Support Home Lab
+### IT Support Home Lab
 
 Hands-on labs I'm working through while studying for CompTIA A+ (Windows, Active Directory, networking and security basics), documented step by step.
 
-👉 [IT-Support-Home-Lab](https://github.com/GuiLimaTi/IT-Support-Home-Lab) *(in progress)*
+[IT-Support-Home-Lab](https://github.com/GuiLimaTi/IT-Support-Home-Lab) *(in progress)*
 
 ---
 
-### 💻 Projects
+### Projects
 
-#### ☕ [Sip Spot](https://github.com/GuiLimaTi/CS50-Final-Project---Sip-Spot) — CS50 Final Project
+#### [Sip Spot](https://github.com/GuiLimaTi/CS50-Final-Project---Sip-Spot) — CS50 Final Project
 Web app that helps users find coffee shops in Temple Bar, Dublin, with filters for coffee type, price, opening hours and work-friendly options.
 **Tech:** Python, Flask, SQLite, HTML, CSS
 
-#### 🤖 [Python Sales Automation](https://github.com/GuiLimaTi/Python-Sales-Automation)
+#### [Python Sales Automation](https://github.com/GuiLimaTi/Python-Sales-Automation)
 Script that automates repetitive sales tasks in spreadsheets and email, reducing manual work.
 **Tech:** Python, PyAutoGUI, Pandas, OpenPyXL, Pyperclip
 
-#### 🌐 [CS50 Web Projects](https://github.com/GuiLimaTi/CS50-week8)
+#### [CS50 Web Projects](https://github.com/GuiLimaTi/CS50-week8)
 Multi-page website and interactive trivia app built with HTML, CSS, JavaScript and Bootstrap.
-👉 Live site: https://guilimati.github.io/CS50-week8/
+Live site: https://guilimati.github.io/CS50-week8/
 
-#### 🧠 CS50 Programming Problem Sets
+#### CS50 Programming Problem Sets
 C and Python exercises covering algorithms, data structures, memory management, sorting and file handling (e.g. Speller, Runoff, Filter, Recover), plus SQL and Flask in weeks 7–9.
 
 ---
 
-### 🎓 Education & Certifications
+### Education & Certifications
 
 - Higher Diploma in Science in Computing — National College of Ireland *(2026–2027)*
 - CompTIA A+ — *in progress*
@@ -76,7 +76,7 @@ C and Python exercises covering algorithms, data structures, memory management, 
 
 ---
 
-### 🧰 Technologies & Tools
+### Technologies & Tools
 
 <img align="left" alt="Windows" title="Windows" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg"/>
 <img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
@@ -92,6 +92,6 @@ C and Python exercises covering algorithms, data structures, memory management, 
 
 ---
 
-### 🌍 Languages
+### Languages
 
 Portuguese (native) · English (professional) · Spanish (intermediate) · Italian (basic)
